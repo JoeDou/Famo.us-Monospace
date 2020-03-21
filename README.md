@@ -20,5 +20,10 @@ Famospace uses the following technologies:
   - Express
   - HTML5/CSS3
 
+### To run locally
+- need to use node.js version before v12
+- npm install && bower install
+- grunt serve
+
 ### License
 Famospace is licensed under the [MIT license.](https://github.com/Famospace/Famo.us-Monospace/blob/master/LICENSE.txt)
